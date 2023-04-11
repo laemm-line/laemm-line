@@ -1,6 +1,6 @@
 # About me
 
-10+ years of experience as a Developer. Passionate about Software Architecture, Software Craftsmanship & Clean Code.
+10+ years of experience as a Software Developer / Architect. Passionate about Software Craftsmanship & Clean Code.
 
 # Technologies
 

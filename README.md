@@ -1,6 +1,6 @@
 # About me
 
-10+ years of experience as a Software Developer / Architect. Passionate about Software Craftsmanship & Clean Code.
+I'm a passionate software architect and advocate of software craftsmanship. I find joy in creating elegant and efficient solutions. When I'm not diving into code, you'll find me tinkering with electronics like Arduino and Raspberry Pi, exploring the fascinating world of hardware and embedded systems.
 
 # Technologies
 
